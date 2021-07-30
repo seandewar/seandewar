@@ -18,10 +18,6 @@ jobs:
           plugin_gists: yes # Gists
           plugin_languages: yes # Most-used languages
 
-          # Notable contributions
-          plugin_notable: yes
-          plugin_notable_filter: stars:>10
-
           # Achievements (disable for now; too much clutter)
           # plugin_achievements: yes 
           # plugin_achievements_secrets: no # Don't display the secret (pink) ones
