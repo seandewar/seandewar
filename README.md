@@ -10,8 +10,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14611](https://github.com/neovim/neovim/issues/14611) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🗣 Commented on [#15580](https://github.com/neovim/neovim/issues/15580) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🗣 Commented on [#15626](https://github.com/neovim/neovim/issues/15626) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 💪 Opened PR [#15626](https://github.com/neovim/neovim/pull/15626) in [neovim/neovim](https://github.com/neovim/neovim)
-5. 🗣 Commented on [#15580](https://github.com/neovim/neovim/issues/15580) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🗣 Commented on [#14611](https://github.com/neovim/neovim/issues/14611) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🗣 Commented on [#15580](https://github.com/neovim/neovim/issues/15580) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 🗣 Commented on [#15626](https://github.com/neovim/neovim/issues/15626) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 💪 Opened PR [#15626](https://github.com/neovim/neovim/pull/15626) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
