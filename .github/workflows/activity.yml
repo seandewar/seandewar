@@ -14,5 +14,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "ci(activity): auto-update activity [skip ci]"
+          COMMIT_MSG: "docs(README): auto-update activity [skip ci]"
           MAX_LINES: 5
