@@ -1,4 +1,4 @@
-## Hey there, welcome to my profile!
+## Hey there, welcome to my profile! 👋
 
 - [Click here](https://seandewar.github.io/) to learn more about me and my projects.
 - [Click here](https://github.com/search?p=1&q=author%3Aseandewar+is%3Apr) to see my Pull Request history.
