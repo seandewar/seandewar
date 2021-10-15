@@ -9,9 +9,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#223](https://github.com/hrsh7th/vim-vsnip/issues/223) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
-2. ❗️ Closed issue [#16028](https://github.com/neovim/neovim/issues/16028) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🗣 Commented on [#16028](https://github.com/neovim/neovim/issues/16028) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🗣 Commented on [#15999](https://github.com/neovim/neovim/issues/15999) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 💪 Opened PR [#224](https://github.com/hrsh7th/vim-vsnip/pull/224) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
+2. ❗️ Opened issue [#223](https://github.com/hrsh7th/vim-vsnip/issues/223) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
+3. ❗️ Closed issue [#16028](https://github.com/neovim/neovim/issues/16028) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 🗣 Commented on [#16028](https://github.com/neovim/neovim/issues/16028) in [neovim/neovim](https://github.com/neovim/neovim)
 5. 🗣 Commented on [#15999](https://github.com/neovim/neovim/issues/15999) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
