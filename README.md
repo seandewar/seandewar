@@ -10,8 +10,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#15881](https://github.com/neovim/neovim/issues/15881) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🗣 Commented on [#16047](https://github.com/neovim/neovim/issues/16047) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🗣 Commented on [#16040](https://github.com/neovim/neovim/issues/16040) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 💪 Opened PR [#224](https://github.com/hrsh7th/vim-vsnip/pull/224) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
-5. ❗️ Opened issue [#223](https://github.com/hrsh7th/vim-vsnip/issues/223) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
+2. 🗣 Commented on [#15881](https://github.com/neovim/neovim/issues/15881) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🗣 Commented on [#16047](https://github.com/neovim/neovim/issues/16047) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 🗣 Commented on [#16040](https://github.com/neovim/neovim/issues/16040) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 💪 Opened PR [#224](https://github.com/hrsh7th/vim-vsnip/pull/224) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
 <!--END_SECTION:activity-->
