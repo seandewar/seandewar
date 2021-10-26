@@ -9,9 +9,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16126](https://github.com/neovim/neovim/issues/16126) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🗣 Commented on [#16064](https://github.com/neovim/neovim/issues/16064) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 💪 Opened PR [#3](https://github.com/seandewar/learn4haskell/pull/3) in [seandewar/learn4haskell](https://github.com/seandewar/learn4haskell)
+2. 🗣 Commented on [#16126](https://github.com/neovim/neovim/issues/16126) in [neovim/neovim](https://github.com/neovim/neovim)
 3. 🗣 Commented on [#16064](https://github.com/neovim/neovim/issues/16064) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🗣 Commented on [#16071](https://github.com/neovim/neovim/issues/16071) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 🗣 Commented on [#16064](https://github.com/neovim/neovim/issues/16064) in [neovim/neovim](https://github.com/neovim/neovim)
 5. 🗣 Commented on [#16071](https://github.com/neovim/neovim/issues/16071) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
