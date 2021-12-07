@@ -9,9 +9,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16553](https://github.com/neovim/neovim/pull/16553) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🗣 Commented on [#16538](https://github.com/neovim/neovim/issues/16538) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🎉 Merged PR [#4](https://github.com/seandewar/learn4haskell/pull/4) in [seandewar/learn4haskell](https://github.com/seandewar/learn4haskell)
-4. 🎉 Merged PR [#3](https://github.com/seandewar/learn4haskell/pull/3) in [seandewar/learn4haskell](https://github.com/seandewar/learn4haskell)
-5. 🎉 Merged PR [#2](https://github.com/seandewar/learn4haskell/pull/2) in [seandewar/learn4haskell](https://github.com/seandewar/learn4haskell)
+1. 🗣 Commented on [#16558](https://github.com/neovim/neovim/issues/16558) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🗣 Commented on [#16558](https://github.com/neovim/neovim/issues/16558) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🗣 Commented on [#16558](https://github.com/neovim/neovim/issues/16558) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 💪 Opened PR [#16553](https://github.com/neovim/neovim/pull/16553) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🗣 Commented on [#16538](https://github.com/neovim/neovim/issues/16538) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
