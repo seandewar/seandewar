@@ -10,8 +10,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16968](https://github.com/neovim/neovim/issues/16968) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🗣 Commented on [#9479](https://github.com/vim/vim/issues/9479) in [vim/vim](https://github.com/vim/vim)
-3. 🗣 Commented on [#9479](https://github.com/vim/vim/issues/9479) in [vim/vim](https://github.com/vim/vim)
-4. 🗣 Commented on [#16937](https://github.com/neovim/neovim/issues/16937) in [neovim/neovim](https://github.com/neovim/neovim)
+2. ❗️ Closed issue [#16968](https://github.com/neovim/neovim/issues/16968) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🗣 Commented on [#16968](https://github.com/neovim/neovim/issues/16968) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 🗣 Commented on [#9479](https://github.com/vim/vim/issues/9479) in [vim/vim](https://github.com/vim/vim)
 5. 🗣 Commented on [#9479](https://github.com/vim/vim/issues/9479) in [vim/vim](https://github.com/vim/vim)
 <!--END_SECTION:activity-->
