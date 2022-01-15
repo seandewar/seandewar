@@ -10,8 +10,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16820](https://github.com/neovim/neovim/issues/16820) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🗣 Commented on [#16975](https://github.com/neovim/neovim/issues/16975) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🗣 Commented on [#16820](https://github.com/neovim/neovim/issues/16820) in [neovim/neovim](https://github.com/neovim/neovim)
 3. 🗣 Commented on [#16975](https://github.com/neovim/neovim/issues/16975) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🗣 Commented on [#17063](https://github.com/neovim/neovim/issues/17063) in [neovim/neovim](https://github.com/neovim/neovim)
-5. 🗣 Commented on [#17036](https://github.com/neovim/neovim/issues/17036) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 🗣 Commented on [#16975](https://github.com/neovim/neovim/issues/16975) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🗣 Commented on [#17063](https://github.com/neovim/neovim/issues/17063) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
