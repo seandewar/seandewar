@@ -9,8 +9,8 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16873](https://github.com/neovim/neovim/issues/16873) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 💪 Opened PR [#17135](https://github.com/neovim/neovim/pull/17135) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🎉 Merged PR [#16954](https://github.com/neovim/neovim/pull/16954) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🗣 Commented on [#16873](https://github.com/neovim/neovim/issues/16873) in [neovim/neovim](https://github.com/neovim/neovim)
 3. 🗣 Commented on [#15221](https://github.com/neovim/neovim/issues/15221) in [neovim/neovim](https://github.com/neovim/neovim)
 4. 🗣 Commented on [#16820](https://github.com/neovim/neovim/issues/16820) in [neovim/neovim](https://github.com/neovim/neovim)
 5. 🗣 Commented on [#16820](https://github.com/neovim/neovim/issues/16820) in [neovim/neovim](https://github.com/neovim/neovim)
