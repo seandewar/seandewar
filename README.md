@@ -13,5 +13,5 @@
 2. 🗣 Commented on [#17433](https://github.com/neovim/neovim/issues/17433) in [neovim/neovim](https://github.com/neovim/neovim)
 3. 🗣 Commented on [#17433](https://github.com/neovim/neovim/issues/17433) in [neovim/neovim](https://github.com/neovim/neovim)
 4. 🗣 Commented on [#17433](https://github.com/neovim/neovim/issues/17433) in [neovim/neovim](https://github.com/neovim/neovim)
-5. 💪 Opened PR [#17433](https://github.com/neovim/neovim/pull/17433) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🗣 Commented on [#17433](https://github.com/neovim/neovim/issues/17433) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
