@@ -9,9 +9,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/seandewar/killersheep.nvim/issues/3) in [seandewar/killersheep.nvim](https://github.com/seandewar/killersheep.nvim)
-2. ❗️ Closed issue [#1](https://github.com/seandewar/killersheep.nvim/issues/1) in [seandewar/killersheep.nvim](https://github.com/seandewar/killersheep.nvim)
-3. ❗️ Closed issue [#2](https://github.com/seandewar/killersheep.nvim/issues/2) in [seandewar/killersheep.nvim](https://github.com/seandewar/killersheep.nvim)
-4. 🗣 Commented on [#1](https://github.com/seandewar/killersheep.nvim/issues/1) in [seandewar/killersheep.nvim](https://github.com/seandewar/killersheep.nvim)
-5. 💪 Opened PR [#17536](https://github.com/neovim/neovim/pull/17536) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 💪 Opened PR [#336](https://github.com/rockerBOO/awesome-neovim/pull/336) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+2. ❗️ Opened issue [#3](https://github.com/seandewar/killersheep.nvim/issues/3) in [seandewar/killersheep.nvim](https://github.com/seandewar/killersheep.nvim)
+3. ❗️ Closed issue [#1](https://github.com/seandewar/killersheep.nvim/issues/1) in [seandewar/killersheep.nvim](https://github.com/seandewar/killersheep.nvim)
+4. ❗️ Closed issue [#2](https://github.com/seandewar/killersheep.nvim/issues/2) in [seandewar/killersheep.nvim](https://github.com/seandewar/killersheep.nvim)
+5. 🗣 Commented on [#1](https://github.com/seandewar/killersheep.nvim/issues/1) in [seandewar/killersheep.nvim](https://github.com/seandewar/killersheep.nvim)
 <!--END_SECTION:activity-->
