@@ -9,9 +9,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17656](https://github.com/neovim/neovim/issues/17656) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🎉 Merged PR [#17655](https://github.com/neovim/neovim/pull/17655) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 💪 Opened PR [#17655](https://github.com/neovim/neovim/pull/17655) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 💪 Opened PR [#336](https://github.com/rockerBOO/awesome-neovim/pull/336) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
-5. ❗️ Opened issue [#3](https://github.com/seandewar/killersheep.nvim/issues/3) in [seandewar/killersheep.nvim](https://github.com/seandewar/killersheep.nvim)
+1. 💪 Opened PR [#17657](https://github.com/neovim/neovim/pull/17657) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🗣 Commented on [#17656](https://github.com/neovim/neovim/issues/17656) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🎉 Merged PR [#17655](https://github.com/neovim/neovim/pull/17655) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 💪 Opened PR [#17655](https://github.com/neovim/neovim/pull/17655) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 💪 Opened PR [#336](https://github.com/rockerBOO/awesome-neovim/pull/336) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 <!--END_SECTION:activity-->
