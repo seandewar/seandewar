@@ -9,9 +9,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18545](https://github.com/neovim/neovim/pull/18545) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🗣 Commented on [#18529](https://github.com/neovim/neovim/issues/18529) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 💪 Opened PR [#10406](https://github.com/vim/vim/pull/10406) in [vim/vim](https://github.com/vim/vim)
-4. 🗣 Commented on [#18529](https://github.com/neovim/neovim/issues/18529) in [neovim/neovim](https://github.com/neovim/neovim)
-5. ❗️ Opened issue [#5](https://github.com/seandewar/killersheep.nvim/issues/5) in [seandewar/killersheep.nvim](https://github.com/seandewar/killersheep.nvim)
+1. 🗣 Commented on [#18497](https://github.com/neovim/neovim/issues/18497) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🎉 Merged PR [#18545](https://github.com/neovim/neovim/pull/18545) in [neovim/neovim](https://github.com/neovim/neovim)
+3. ❗️ Closed issue [#18529](https://github.com/neovim/neovim/issues/18529) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 💪 Opened PR [#18545](https://github.com/neovim/neovim/pull/18545) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🗣 Commented on [#18529](https://github.com/neovim/neovim/issues/18529) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
