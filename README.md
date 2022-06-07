@@ -9,9 +9,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18893](https://github.com/neovim/neovim/pull/18893) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 💪 Opened PR [#18893](https://github.com/neovim/neovim/pull/18893) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🗣 Commented on [#18890](https://github.com/neovim/neovim/issues/18890) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🗣 Commented on [#18890](https://github.com/neovim/neovim/issues/18890) in [neovim/neovim](https://github.com/neovim/neovim)
-5. 🎉 Merged PR [#18545](https://github.com/neovim/neovim/pull/18545) in [neovim/neovim](https://github.com/neovim/neovim)
+1. ❗️ Closed issue [#742](https://github.com/nvim-telescope/telescope.nvim/issues/742) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+2. 🗣 Commented on [#742](https://github.com/nvim-telescope/telescope.nvim/issues/742) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+3. 🎉 Merged PR [#18893](https://github.com/neovim/neovim/pull/18893) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 💪 Opened PR [#18893](https://github.com/neovim/neovim/pull/18893) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🗣 Commented on [#18890](https://github.com/neovim/neovim/issues/18890) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
