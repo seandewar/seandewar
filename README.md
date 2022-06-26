@@ -9,9 +9,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19032](https://github.com/neovim/neovim/issues/19032) in [neovim/neovim](https://github.com/neovim/neovim)
-2. ❗️ Closed issue [#19004](https://github.com/neovim/neovim/issues/19004) in [neovim/neovim](https://github.com/neovim/neovim)
-3. ❗️ Closed issue [#19004](https://github.com/neovim/neovim/issues/19004) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🗣 Commented on [#19004](https://github.com/neovim/neovim/issues/19004) in [neovim/neovim](https://github.com/neovim/neovim)
-5. ❗️ Opened issue [#18960](https://github.com/neovim/neovim/issues/18960) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🗣 Commented on [#1](https://github.com/seandewar/memetendo-unsafe-boy-advance/issues/1) in [seandewar/memetendo-unsafe-boy-advance](https://github.com/seandewar/memetendo-unsafe-boy-advance)
+2. 🎉 Merged PR [#1](https://github.com/seandewar/memetendo-unsafe-boy-advance/pull/1) in [seandewar/memetendo-unsafe-boy-advance](https://github.com/seandewar/memetendo-unsafe-boy-advance)
+3. 🗣 Commented on [#19032](https://github.com/neovim/neovim/issues/19032) in [neovim/neovim](https://github.com/neovim/neovim)
+4. ❗️ Closed issue [#19004](https://github.com/neovim/neovim/issues/19004) in [neovim/neovim](https://github.com/neovim/neovim)
+5. ❗️ Closed issue [#19004](https://github.com/neovim/neovim/issues/19004) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
