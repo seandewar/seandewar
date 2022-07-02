@@ -9,9 +9,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19200](https://github.com/neovim/neovim/issues/19200) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🗣 Commented on [#19197](https://github.com/neovim/neovim/issues/19197) in [neovim/neovim](https://github.com/neovim/neovim)
-3. ❗️ Closed issue [#19196](https://github.com/neovim/neovim/issues/19196) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🗣 Commented on [#19196](https://github.com/neovim/neovim/issues/19196) in [neovim/neovim](https://github.com/neovim/neovim)
-5. ❗️ Closed issue [#19157](https://github.com/neovim/neovim/issues/19157) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🗣 Commented on [#19200](https://github.com/neovim/neovim/issues/19200) in [neovim/neovim](https://github.com/neovim/neovim)
+2. ❗️ Opened issue [#19200](https://github.com/neovim/neovim/issues/19200) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🗣 Commented on [#19197](https://github.com/neovim/neovim/issues/19197) in [neovim/neovim](https://github.com/neovim/neovim)
+4. ❗️ Closed issue [#19196](https://github.com/neovim/neovim/issues/19196) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🗣 Commented on [#19196](https://github.com/neovim/neovim/issues/19196) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
