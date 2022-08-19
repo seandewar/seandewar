@@ -9,9 +9,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/seandewar/neovim/issues/3) in [seandewar/neovim](https://github.com/seandewar/neovim)
-2. 💪 Opened PR [#3](https://github.com/seandewar/neovim/pull/3) in [seandewar/neovim](https://github.com/seandewar/neovim)
-3. 🗣 Commented on [#19501](https://github.com/neovim/neovim/issues/19501) in [neovim/neovim](https://github.com/neovim/neovim)
-4. ❗️ Closed issue [#19196](https://github.com/neovim/neovim/issues/19196) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🗣 Commented on [#19848](https://github.com/neovim/neovim/issues/19848) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🗣 Commented on [#3](https://github.com/seandewar/neovim/issues/3) in [seandewar/neovim](https://github.com/seandewar/neovim)
+3. 💪 Opened PR [#3](https://github.com/seandewar/neovim/pull/3) in [seandewar/neovim](https://github.com/seandewar/neovim)
+4. 🗣 Commented on [#19501](https://github.com/neovim/neovim/issues/19501) in [neovim/neovim](https://github.com/neovim/neovim)
 5. 🗣 Commented on [#19196](https://github.com/neovim/neovim/issues/19196) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
