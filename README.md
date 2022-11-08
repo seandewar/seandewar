@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#20636](https://github.com/neovim/neovim/issues/20636) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🎉 Merged PR [#20637](https://github.com/neovim/neovim/pull/20637) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🗣 Commented on [#20686](https://github.com/neovim/neovim/issues/20686) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🗣 Commented on [#20681](https://github.com/neovim/neovim/issues/20681) in [neovim/neovim](https://github.com/neovim/neovim)
-5. 🗣 Commented on [#20679](https://github.com/neovim/neovim/issues/20679) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🗣 Commented on [#21004](https://github.com/neovim/neovim/issues/21004) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🗣 Commented on [#21004](https://github.com/neovim/neovim/issues/21004) in [neovim/neovim](https://github.com/neovim/neovim)
+3. ❗️ Closed issue [#21004](https://github.com/neovim/neovim/issues/21004) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 🗣 Commented on [#21004](https://github.com/neovim/neovim/issues/21004) in [neovim/neovim](https://github.com/neovim/neovim)
+5. ❗️ Closed issue [#20636](https://github.com/neovim/neovim/issues/20636) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
