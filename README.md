@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21970](https://github.com/neovim/neovim/pull/21970) in [neovim/neovim](https://github.com/neovim/neovim)
-2. ❗️ Closed issue [#21889](https://github.com/neovim/neovim/issues/21889) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🗣 Commented on [#21889](https://github.com/neovim/neovim/issues/21889) in [neovim/neovim](https://github.com/neovim/neovim)
-4. ❗️ Closed issue [#16237](https://github.com/neovim/neovim/issues/16237) in [neovim/neovim](https://github.com/neovim/neovim)
-5. 🎉 Merged PR [#21839](https://github.com/neovim/neovim/pull/21839) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🎉 Merged PR [#2](https://github.com/seandewar/challenge-solutions/pull/2) in [seandewar/challenge-solutions](https://github.com/seandewar/challenge-solutions)
+2. 🎉 Merged PR [#1](https://github.com/seandewar/challenge-solutions/pull/1) in [seandewar/challenge-solutions](https://github.com/seandewar/challenge-solutions)
+3. 💪 Opened PR [#21970](https://github.com/neovim/neovim/pull/21970) in [neovim/neovim](https://github.com/neovim/neovim)
+4. ❗️ Closed issue [#21889](https://github.com/neovim/neovim/issues/21889) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🗣 Commented on [#21889](https://github.com/neovim/neovim/issues/21889) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
