@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23005](https://github.com/neovim/neovim/pull/23005) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 💪 Opened PR [#12246](https://github.com/vim/vim/pull/12246) in [vim/vim](https://github.com/vim/vim)
-3. 💪 Opened PR [#23005](https://github.com/neovim/neovim/pull/23005) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🗣 Commented on [#1](https://github.com/seandewar/nvimesweeper/issues/1) in [seandewar/nvimesweeper](https://github.com/seandewar/nvimesweeper)
+1. 🎉 Merged PR [#23174](https://github.com/neovim/neovim/pull/23174) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🎉 Merged PR [#23005](https://github.com/neovim/neovim/pull/23005) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 💪 Opened PR [#12246](https://github.com/vim/vim/pull/12246) in [vim/vim](https://github.com/vim/vim)
+4. 💪 Opened PR [#23005](https://github.com/neovim/neovim/pull/23005) in [neovim/neovim](https://github.com/neovim/neovim)
 5. 🎉 Merged PR [#1](https://github.com/seandewar/nvimesweeper/pull/1) in [seandewar/nvimesweeper](https://github.com/seandewar/nvimesweeper)
 <!--END_SECTION:activity-->
