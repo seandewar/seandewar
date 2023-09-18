@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/seandewar/memetendo-unsafe-boy-advance/pull/2) in [seandewar/memetendo-unsafe-boy-advance](https://github.com/seandewar/memetendo-unsafe-boy-advance)
-2. 💪 Opened PR [#5](https://github.com/dundargoc/vim10jit/pull/5) in [dundargoc/vim10jit](https://github.com/dundargoc/vim10jit)
-3. 💪 Opened PR [#3](https://github.com/dundargoc/vim10jit/pull/3) in [dundargoc/vim10jit](https://github.com/dundargoc/vim10jit)
-4. 🗣 Commented on [#25020](https://github.com/neovim/neovim/pull/25020#issuecomment-1705716295) in [neovim/neovim](https://github.com/neovim/neovim)
-5. 🎉 Merged PR [#24821](https://github.com/neovim/neovim/pull/24821) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🎉 Merged PR [#5](https://github.com/seandewar/memetendo-unsafe-boy-advance/pull/5) in [seandewar/memetendo-unsafe-boy-advance](https://github.com/seandewar/memetendo-unsafe-boy-advance)
+2. 💪 Opened PR [#5](https://github.com/seandewar/memetendo-unsafe-boy-advance/pull/5) in [seandewar/memetendo-unsafe-boy-advance](https://github.com/seandewar/memetendo-unsafe-boy-advance)
+3. 🎉 Merged PR [#4](https://github.com/seandewar/memetendo-unsafe-boy-advance/pull/4) in [seandewar/memetendo-unsafe-boy-advance](https://github.com/seandewar/memetendo-unsafe-boy-advance)
+4. 🎉 Merged PR [#3](https://github.com/seandewar/memetendo-unsafe-boy-advance/pull/3) in [seandewar/memetendo-unsafe-boy-advance](https://github.com/seandewar/memetendo-unsafe-boy-advance)
+5. 🎉 Merged PR [#2](https://github.com/seandewar/memetendo-unsafe-boy-advance/pull/2) in [seandewar/memetendo-unsafe-boy-advance](https://github.com/seandewar/memetendo-unsafe-boy-advance)
 <!--END_SECTION:activity-->
