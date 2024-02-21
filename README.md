@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/tree-sitter-grammars/tree-sitter-vim/issues/22#issuecomment-1957247975) in [tree-sitter-grammars/tree-sitter-vim](https://github.com/tree-sitter-grammars/tree-sitter-vim)
-2. 💪 Opened PR [#14068](https://github.com/vim/vim/pull/14068) in [vim/vim](https://github.com/vim/vim)
-3. 🗣 Commented on [#27330](https://github.com/neovim/neovim/pull/27330#issuecomment-1955182091) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🗣 Commented on [#27522](https://github.com/neovim/neovim/pull/27522#issuecomment-1951470108) in [neovim/neovim](https://github.com/neovim/neovim)
-5. 🗣 Commented on [#14042](https://github.com/vim/vim/pull/14042#issuecomment-1950272214) in [vim/vim](https://github.com/vim/vim)
+1. 🗣 Commented on [#22](https://github.com/tree-sitter-grammars/tree-sitter-vim/issues/22#issuecomment-1957569362) in [tree-sitter-grammars/tree-sitter-vim](https://github.com/tree-sitter-grammars/tree-sitter-vim)
+2. 🗣 Commented on [#22](https://github.com/tree-sitter-grammars/tree-sitter-vim/issues/22#issuecomment-1957247975) in [tree-sitter-grammars/tree-sitter-vim](https://github.com/tree-sitter-grammars/tree-sitter-vim)
+3. 💪 Opened PR [#14068](https://github.com/vim/vim/pull/14068) in [vim/vim](https://github.com/vim/vim)
+4. 🗣 Commented on [#27330](https://github.com/neovim/neovim/pull/27330#issuecomment-1955182091) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🗣 Commented on [#27522](https://github.com/neovim/neovim/pull/27522#issuecomment-1951470108) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
