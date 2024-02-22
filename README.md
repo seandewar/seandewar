@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14073](https://github.com/vim/vim/issues/14073#issuecomment-1959310200) in [vim/vim](https://github.com/vim/vim)
-2. 🗣 Commented on [#14073](https://github.com/vim/vim/issues/14073#issuecomment-1959284019) in [vim/vim](https://github.com/vim/vim)
-3. 🗣 Commented on [#14073](https://github.com/vim/vim/issues/14073#issuecomment-1959133166) in [vim/vim](https://github.com/vim/vim)
-4. 🗣 Commented on [#14073](https://github.com/vim/vim/issues/14073#issuecomment-1958964840) in [vim/vim](https://github.com/vim/vim)
-5. 🗣 Commented on [#22](https://github.com/tree-sitter-grammars/tree-sitter-vim/issues/22#issuecomment-1957569362) in [tree-sitter-grammars/tree-sitter-vim](https://github.com/tree-sitter-grammars/tree-sitter-vim)
+1. 💪 Opened PR [#14074](https://github.com/vim/vim/pull/14074) in [vim/vim](https://github.com/vim/vim)
+2. 🗣 Commented on [#14073](https://github.com/vim/vim/issues/14073#issuecomment-1959310200) in [vim/vim](https://github.com/vim/vim)
+3. 🗣 Commented on [#14073](https://github.com/vim/vim/issues/14073#issuecomment-1959284019) in [vim/vim](https://github.com/vim/vim)
+4. 🗣 Commented on [#14073](https://github.com/vim/vim/issues/14073#issuecomment-1959133166) in [vim/vim](https://github.com/vim/vim)
+5. 🗣 Commented on [#14073](https://github.com/vim/vim/issues/14073#issuecomment-1958964840) in [vim/vim](https://github.com/vim/vim)
 <!--END_SECTION:activity-->
