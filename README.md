@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14286](https://github.com/vim/vim/pull/14286#issuecomment-2023229432) in [vim/vim](https://github.com/vim/vim)
-2. 🗣 Commented on [#14286](https://github.com/vim/vim/pull/14286#issuecomment-2023117224) in [vim/vim](https://github.com/vim/vim)
-3. 🗣 Commented on [#2278](https://github.com/tpope/vim-fugitive/issues/2278#issuecomment-2020253463) in [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)
-4. 🗣 Commented on [#14142](https://github.com/vim/vim/pull/14142#issuecomment-2020021671) in [vim/vim](https://github.com/vim/vim)
-5. 🗣 Commented on [#27957](https://github.com/neovim/neovim/issues/27957#issuecomment-2011030718) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🗣 Commented on [#28084](https://github.com/neovim/neovim/issues/28084#issuecomment-2026013648) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🗣 Commented on [#28084](https://github.com/neovim/neovim/issues/28084#issuecomment-2025988519) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🔓 Reopened issue [#28084](https://github.com/neovim/neovim/issues/28084) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 🗣 Commented on [#28084](https://github.com/neovim/neovim/issues/28084#issuecomment-2025975136) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🗣 Commented on [#14286](https://github.com/vim/vim/pull/14286#issuecomment-2023229432) in [vim/vim](https://github.com/vim/vim)
 <!--END_SECTION:activity-->
