@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/seandewar/challenge-solutions/pull/6) in [seandewar/challenge-solutions](https://github.com/seandewar/challenge-solutions)
-2. 🎉 Merged PR [#5](https://github.com/seandewar/challenge-solutions/pull/5) in [seandewar/challenge-solutions](https://github.com/seandewar/challenge-solutions)
-3. 🗣 Commented on [#33436](https://github.com/neovim/neovim/issues/33436#issuecomment-2799027046) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🔒 Closed issue [#33436](https://github.com/neovim/neovim/issues/33436) in [neovim/neovim](https://github.com/neovim/neovim)
-5. 🗣 Commented on [#33315](https://github.com/neovim/neovim/issues/33315#issuecomment-2779298045) in [neovim/neovim](https://github.com/neovim/neovim)
+1. ❗ Opened issue [#33699](https://github.com/neovim/neovim/issues/33699) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🎉 Merged PR [#6](https://github.com/seandewar/challenge-solutions/pull/6) in [seandewar/challenge-solutions](https://github.com/seandewar/challenge-solutions)
+3. 🎉 Merged PR [#5](https://github.com/seandewar/challenge-solutions/pull/5) in [seandewar/challenge-solutions](https://github.com/seandewar/challenge-solutions)
+4. 🗣 Commented on [#33436](https://github.com/neovim/neovim/issues/33436#issuecomment-2799027046) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🔒 Closed issue [#33436](https://github.com/neovim/neovim/issues/33436) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
