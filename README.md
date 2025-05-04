@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33820](https://github.com/neovim/neovim/pull/33820) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🎉 Merged PR [#33816](https://github.com/neovim/neovim/pull/33816) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🔒 Closed issue [#33814](https://github.com/neovim/neovim/issues/33814) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🎉 Merged PR [#33815](https://github.com/neovim/neovim/pull/33815) in [neovim/neovim](https://github.com/neovim/neovim)
-5. 💪 Opened PR [#33815](https://github.com/neovim/neovim/pull/33815) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🎉 Merged PR [#33820](https://github.com/neovim/neovim/pull/33820) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 💪 Opened PR [#33820](https://github.com/neovim/neovim/pull/33820) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🎉 Merged PR [#33816](https://github.com/neovim/neovim/pull/33816) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 🔒 Closed issue [#33814](https://github.com/neovim/neovim/issues/33814) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🎉 Merged PR [#33815](https://github.com/neovim/neovim/pull/33815) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
