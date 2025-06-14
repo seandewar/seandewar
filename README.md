@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/seandewar/actually-doom.nvim/pull/3) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
-2. 💪 Opened PR [#3](https://github.com/seandewar/actually-doom.nvim/pull/3) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
-3. 🗣 Commented on [#3880](https://github.com/neovim/nvim-lspconfig/issues/3880#issuecomment-2927685950) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-4. 🗣 Commented on [#3880](https://github.com/neovim/nvim-lspconfig/issues/3880#issuecomment-2927524742) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-5. 🗣 Commented on [#31644](https://github.com/neovim/neovim/issues/31644#issuecomment-2926200186) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 💪 Opened PR [#1558](https://github.com/rockerBOO/awesome-neovim/pull/1558) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+2. 🎉 Merged PR [#3](https://github.com/seandewar/actually-doom.nvim/pull/3) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
+3. 💪 Opened PR [#3](https://github.com/seandewar/actually-doom.nvim/pull/3) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
+4. 🗣 Commented on [#3880](https://github.com/neovim/nvim-lspconfig/issues/3880#issuecomment-2927685950) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+5. 🗣 Commented on [#3880](https://github.com/neovim/nvim-lspconfig/issues/3880#issuecomment-2927524742) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 <!--END_SECTION:activity-->
