@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34950](https://github.com/neovim/neovim/pull/34950#issuecomment-3075976132) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🗣 Commented on [#34943](https://github.com/neovim/neovim/pull/34943#issuecomment-3075927619) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 💪 Opened PR [#34950](https://github.com/neovim/neovim/pull/34950) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🗣 Commented on [#34693](https://github.com/neovim/neovim/issues/34693#issuecomment-3015983584) in [neovim/neovim](https://github.com/neovim/neovim)
-5. 🗣 Commented on [#4](https://github.com/seandewar/actually-doom.nvim/issues/4#issuecomment-2995916597) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
+1. 💪 Opened PR [#17790](https://github.com/vim/vim/pull/17790) in [vim/vim](https://github.com/vim/vim)
+2. 🗣 Commented on [#34950](https://github.com/neovim/neovim/pull/34950#issuecomment-3075976132) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🗣 Commented on [#34943](https://github.com/neovim/neovim/pull/34943#issuecomment-3075927619) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 💪 Opened PR [#34950](https://github.com/neovim/neovim/pull/34950) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🗣 Commented on [#34693](https://github.com/neovim/neovim/issues/34693#issuecomment-3015983584) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
