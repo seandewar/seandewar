@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34950](https://github.com/neovim/neovim/pull/34950#issuecomment-3100162671) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🗣 Commented on [#34950](https://github.com/neovim/neovim/pull/34950#issuecomment-3092480150) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 💪 Opened PR [#17790](https://github.com/vim/vim/pull/17790) in [vim/vim](https://github.com/vim/vim)
-4. 🗣 Commented on [#34950](https://github.com/neovim/neovim/pull/34950#issuecomment-3075976132) in [neovim/neovim](https://github.com/neovim/neovim)
-5. 🗣 Commented on [#34943](https://github.com/neovim/neovim/pull/34943#issuecomment-3075927619) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🔒 Closed issue [#21409](https://github.com/neovim/neovim/issues/21409) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🔒 Closed issue [#31236](https://github.com/neovim/neovim/issues/31236) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🎉 Merged PR [#34950](https://github.com/neovim/neovim/pull/34950) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 🗣 Commented on [#34950](https://github.com/neovim/neovim/pull/34950#issuecomment-3100162671) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🗣 Commented on [#34950](https://github.com/neovim/neovim/pull/34950#issuecomment-3092480150) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
