@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9](https://github.com/seandewar/actually-doom.nvim/issues/9) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
-2. 🎉 Merged PR [#10](https://github.com/seandewar/actually-doom.nvim/pull/10) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
-3. 🗣 Commented on [#9](https://github.com/seandewar/actually-doom.nvim/issues/9#issuecomment-3124748497) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
-4. 💪 Opened PR [#10](https://github.com/seandewar/actually-doom.nvim/pull/10) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
-5. 🗣 Commented on [#9](https://github.com/seandewar/actually-doom.nvim/issues/9#issuecomment-3124431021) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
+1. 💪 Opened PR [#4847](https://github.com/libuv/libuv/pull/4847) in [libuv/libuv](https://github.com/libuv/libuv)
+2. 🔒 Closed issue [#9](https://github.com/seandewar/actually-doom.nvim/issues/9) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
+3. 🎉 Merged PR [#10](https://github.com/seandewar/actually-doom.nvim/pull/10) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
+4. 🗣 Commented on [#9](https://github.com/seandewar/actually-doom.nvim/issues/9#issuecomment-3124748497) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
+5. 💪 Opened PR [#10](https://github.com/seandewar/actually-doom.nvim/pull/10) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
 <!--END_SECTION:activity-->
