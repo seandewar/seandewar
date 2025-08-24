@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/seandewar/actually-doom.nvim/issues/2) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
-2. 🗣 Commented on [#35419](https://github.com/neovim/neovim/issues/35419#issuecomment-3211298367) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🔒 Closed issue [#35419](https://github.com/neovim/neovim/issues/35419) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🗣 Commented on [#2](https://github.com/seandewar/actually-doom.nvim/issues/2#issuecomment-3208594720) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
-5. 🗣 Commented on [#35394](https://github.com/neovim/neovim/pull/35394#issuecomment-3201913621) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🗣 Commented on [#35453](https://github.com/neovim/neovim/issues/35453#issuecomment-3218297863) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🔒 Closed issue [#2](https://github.com/seandewar/actually-doom.nvim/issues/2) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
+3. 🗣 Commented on [#35419](https://github.com/neovim/neovim/issues/35419#issuecomment-3211298367) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 🔒 Closed issue [#35419](https://github.com/neovim/neovim/issues/35419) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🗣 Commented on [#2](https://github.com/seandewar/actually-doom.nvim/issues/2#issuecomment-3208594720) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
 <!--END_SECTION:activity-->
