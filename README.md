@@ -9,7 +9,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#35752](https://github.com/neovim/neovim/pull/35752#issuecomment-3289536863) in [neovim/neovim](https://github.com/neovim/neovim)
 2. 🗣 Commented on [#35718](https://github.com/neovim/neovim/issues/35718#issuecomment-3282199348) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🗣 Commented on [#35681](https://github.com/neovim/neovim/issues/35681#issuecomment-3266731888) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 💪 Opened PR [#35650](https://github.com/neovim/neovim/pull/35650) in [neovim/neovim](https://github.com/neovim/neovim)
-5. 🎉 Merged PR [#35643](https://github.com/neovim/neovim/pull/35643) in [neovim/neovim](https://github.com/neovim/neovim)
+3. ❌ Labeled PR [#35650](undefined) in [neovim/neovim](https://github.com/neovim/neovim)
+4. ❌ Labeled PR [#35643](undefined) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🗣 Commented on [#35681](https://github.com/neovim/neovim/issues/35681#issuecomment-3266731888) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
