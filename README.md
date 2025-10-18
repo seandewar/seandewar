@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36155](https://github.com/neovim/neovim/issues/36155#issuecomment-3395453260) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🔒 Closed issue [#36155](https://github.com/neovim/neovim/issues/36155) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 💪 Opened PR [#36137](undefined) in [neovim/neovim](https://github.com/neovim/neovim)
-4. ❌ Unlabeled PR [#36134](undefined) in [neovim/neovim](https://github.com/neovim/neovim)
-5. ❌ Labeled PR [#36134](undefined) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🗣 Commented on [#36235](https://github.com/neovim/neovim/issues/36235#issuecomment-3418198779) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🗣 Commented on [#36155](https://github.com/neovim/neovim/issues/36155#issuecomment-3395453260) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🔒 Closed issue [#36155](https://github.com/neovim/neovim/issues/36155) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 💪 Opened PR [#36137](undefined) in [neovim/neovim](https://github.com/neovim/neovim)
+5. ❌ Unlabeled PR [#36134](undefined) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
