@@ -7,7 +7,7 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36240](https://github.com/neovim/neovim/issues/36240#issuecomment-3433574318) in [neovim/neovim](https://github.com/neovim/neovim)
+1.  Labeled issue [#36774](https://github.com/neovim/neovim/issues/36774) in [neovim/neovim](https://github.com/neovim/neovim)
 2. ❌ Closed PR [#36229](undefined) in [neovim/neovim](https://github.com/neovim/neovim)
 3. 🗣 Commented on [#36229](https://github.com/neovim/neovim/pull/36229#issuecomment-3419777076) in [neovim/neovim](https://github.com/neovim/neovim)
 4.  Labeled issue [#36248](https://github.com/neovim/neovim/issues/36248) in [neovim/neovim](https://github.com/neovim/neovim)
