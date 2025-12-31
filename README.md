@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37168](https://github.com/neovim/neovim/pull/37168#issuecomment-3700078916) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🔒 Closed issue [#37148](https://github.com/neovim/neovim/issues/37148) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🔒 Closed issue [#37146](https://github.com/neovim/neovim/issues/37146) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🔒 Closed issue [#37147](https://github.com/neovim/neovim/issues/37147) in [neovim/neovim](https://github.com/neovim/neovim)
-5.  Labeled issue [#37147](https://github.com/neovim/neovim/issues/37147) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🗣 Commented on [#37183](https://github.com/neovim/neovim/pull/37183#issuecomment-3702863278) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🗣 Commented on [#37168](https://github.com/neovim/neovim/pull/37168#issuecomment-3700078916) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🔒 Closed issue [#37148](https://github.com/neovim/neovim/issues/37148) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 🔒 Closed issue [#37146](https://github.com/neovim/neovim/issues/37146) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🔒 Closed issue [#37147](https://github.com/neovim/neovim/issues/37147) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
