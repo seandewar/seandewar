@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37232](https://github.com/neovim/neovim/pull/37232) in [neovim/neovim](https://github.com/neovim/neovim)
-2. ℹ️ Unlabeled PR [#37218](https://github.com/neovim/neovim/pull/37218) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 💪 Opened PR [#37232](https://github.com/neovim/neovim/pull/37232) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🎉 Merged PR [#37218](https://github.com/neovim/neovim/pull/37218) in [neovim/neovim](https://github.com/neovim/neovim)
-5. ℹ️ Labeled PR [#37218](https://github.com/neovim/neovim/pull/37218) in [neovim/neovim](https://github.com/neovim/neovim)
+1. ℹ️ Labeled issue [#37236](https://github.com/neovim/neovim/issues/37236) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🔒 Closed issue [#37236](https://github.com/neovim/neovim/issues/37236) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🗣 Commented on [#37236](https://github.com/neovim/neovim/issues/37236#issuecomment-3708404221) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 🎉 Merged PR [#37232](https://github.com/neovim/neovim/pull/37232) in [neovim/neovim](https://github.com/neovim/neovim)
+5. ℹ️ Unlabeled PR [#37218](https://github.com/neovim/neovim/pull/37218) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
