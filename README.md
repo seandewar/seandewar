@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19116](https://github.com/vim/vim/issues/19116#issuecomment-3802232433) in [vim/vim](https://github.com/vim/vim)
-2. 🗣 Commented on [#19116](https://github.com/vim/vim/issues/19116#issuecomment-3801788554) in [vim/vim](https://github.com/vim/vim)
-3. 🗣 Commented on [#37513](https://github.com/neovim/neovim/pull/37513#issuecomment-3791379526) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🗣 Commented on [#37287](https://github.com/neovim/neovim/pull/37287#issuecomment-3777600699) in [neovim/neovim](https://github.com/neovim/neovim)
-5. 🔒 Closed issue [#37425](https://github.com/neovim/neovim/issues/37425) in [neovim/neovim](https://github.com/neovim/neovim)
+1. ℹ️ Labeled issue [#37650](https://github.com/neovim/neovim/issues/37650) in [neovim/neovim](https://github.com/neovim/neovim)
+2. ℹ️ Labeled issue [#37650](https://github.com/neovim/neovim/issues/37650) in [neovim/neovim](https://github.com/neovim/neovim)
+3. ❗ Opened issue [#37650](https://github.com/neovim/neovim/issues/37650) in [neovim/neovim](https://github.com/neovim/neovim)
+4. ℹ️ Labeled issue [#37649](https://github.com/neovim/neovim/issues/37649) in [neovim/neovim](https://github.com/neovim/neovim)
+5. ℹ️ Labeled issue [#37649](https://github.com/neovim/neovim/issues/37649) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
