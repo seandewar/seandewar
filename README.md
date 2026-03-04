@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#38141](https://github.com/neovim/neovim/issues/38141) in [neovim/neovim](https://github.com/neovim/neovim)
-2. ℹ️ Unlabeled issue [#38141](https://github.com/neovim/neovim/issues/38141) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🔓 Reopened issue [#38141](https://github.com/neovim/neovim/issues/38141) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🗣 Commented on [#38141](https://github.com/neovim/neovim/issues/38141#issuecomment-3994205877) in [neovim/neovim](https://github.com/neovim/neovim)
-5. ℹ️ Labeled issue [#38141](https://github.com/neovim/neovim/issues/38141) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 💪 Opened PR [#38149](https://github.com/neovim/neovim/pull/38149) in [neovim/neovim](https://github.com/neovim/neovim)
+2. ℹ️ Labeled issue [#38141](https://github.com/neovim/neovim/issues/38141) in [neovim/neovim](https://github.com/neovim/neovim)
+3. ℹ️ Unlabeled issue [#38141](https://github.com/neovim/neovim/issues/38141) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 🔓 Reopened issue [#38141](https://github.com/neovim/neovim/issues/38141) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🗣 Commented on [#38141](https://github.com/neovim/neovim/issues/38141#issuecomment-3994205877) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
