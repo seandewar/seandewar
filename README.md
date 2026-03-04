@@ -8,8 +8,8 @@
 
 <!--START_SECTION:activity-->
 1. ℹ️ Labeled issue [#38141](https://github.com/neovim/neovim/issues/38141) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🔒 Closed issue [#38141](https://github.com/neovim/neovim/issues/38141) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🗣 Commented on [#38141](https://github.com/neovim/neovim/issues/38141#issuecomment-3994158077) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🔒 Closed issue [#38120](https://github.com/neovim/neovim/issues/38120) in [neovim/neovim](https://github.com/neovim/neovim)
-5. 🎉 Merged PR [#38122](https://github.com/neovim/neovim/pull/38122) in [neovim/neovim](https://github.com/neovim/neovim)
+2. ℹ️ Unlabeled issue [#38141](https://github.com/neovim/neovim/issues/38141) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🔓 Reopened issue [#38141](https://github.com/neovim/neovim/issues/38141) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 🗣 Commented on [#38141](https://github.com/neovim/neovim/issues/38141#issuecomment-3994205877) in [neovim/neovim](https://github.com/neovim/neovim)
+5. ℹ️ Labeled issue [#38141](https://github.com/neovim/neovim/issues/38141) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
