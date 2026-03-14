@@ -7,8 +7,8 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38289](https://github.com/neovim/neovim/issues/38289#issuecomment-4059086026) in [neovim/neovim](https://github.com/neovim/neovim)
-2. ℹ️ Labeled issue [#38289](https://github.com/neovim/neovim/issues/38289) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🎉 Merged PR [#38287](https://github.com/neovim/neovim/pull/38287) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🗣 Commented on [#38289](https://github.com/neovim/neovim/issues/38289#issuecomment-4059086026) in [neovim/neovim](https://github.com/neovim/neovim)
 3. ℹ️ Labeled issue [#38289](https://github.com/neovim/neovim/issues/38289) in [neovim/neovim](https://github.com/neovim/neovim)
 4. ℹ️ Labeled issue [#38289](https://github.com/neovim/neovim/issues/38289) in [neovim/neovim](https://github.com/neovim/neovim)
 5. ℹ️ Labeled issue [#38289](https://github.com/neovim/neovim/issues/38289) in [neovim/neovim](https://github.com/neovim/neovim)
