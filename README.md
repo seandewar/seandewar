@@ -8,8 +8,8 @@
 
 <!--START_SECTION:activity-->
 1. ℹ️ Labeled PR [#38473](https://github.com/neovim/neovim/pull/38473) in [neovim/neovim](https://github.com/neovim/neovim)
-2. ℹ️ Unlabeled PR [#38473](https://github.com/neovim/neovim/pull/38473) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🔒 Closed issue [#19116](https://github.com/vim/vim/issues/19116) in [vim/vim](https://github.com/vim/vim)
-4. 🗣 Commented on [#19116](https://github.com/vim/vim/issues/19116#issuecomment-4138042311) in [vim/vim](https://github.com/vim/vim)
-5. 🗣 Commented on [#19728](https://github.com/vim/vim/pull/19728#issuecomment-4133453793) in [vim/vim](https://github.com/vim/vim)
+2. 🗣 Commented on [#38473](https://github.com/neovim/neovim/pull/38473#issuecomment-4145193128) in [neovim/neovim](https://github.com/neovim/neovim)
+3. ℹ️ Labeled PR [#38473](https://github.com/neovim/neovim/pull/38473) in [neovim/neovim](https://github.com/neovim/neovim)
+4. ℹ️ Unlabeled PR [#38473](https://github.com/neovim/neovim/pull/38473) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🔒 Closed issue [#19116](https://github.com/vim/vim/issues/19116) in [vim/vim](https://github.com/vim/vim)
 <!--END_SECTION:activity-->
