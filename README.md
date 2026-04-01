@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38670](https://github.com/neovim/neovim/issues/38670#issuecomment-4168418201) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🗣 Commented on [#38670](https://github.com/neovim/neovim/issues/38670#issuecomment-4168272317) in [neovim/neovim](https://github.com/neovim/neovim)
-3. ℹ️ Labeled issue [#38670](https://github.com/neovim/neovim/issues/38670) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🗣 Commented on [#38670](https://github.com/neovim/neovim/issues/38670#issuecomment-4168636867) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🗣 Commented on [#38670](https://github.com/neovim/neovim/issues/38670#issuecomment-4168418201) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🗣 Commented on [#38670](https://github.com/neovim/neovim/issues/38670#issuecomment-4168272317) in [neovim/neovim](https://github.com/neovim/neovim)
 4. ℹ️ Labeled issue [#38670](https://github.com/neovim/neovim/issues/38670) in [neovim/neovim](https://github.com/neovim/neovim)
-5. ℹ️ Unlabeled issue [#38670](https://github.com/neovim/neovim/issues/38670) in [neovim/neovim](https://github.com/neovim/neovim)
+5. ℹ️ Labeled issue [#38670](https://github.com/neovim/neovim/issues/38670) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
