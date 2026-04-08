@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/seandewar/actually-doom.nvim/issues/14#issuecomment-4205250177) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
-2. 💪 Opened PR [#38851](https://github.com/neovim/neovim/pull/38851) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🗣 Commented on [#38840](https://github.com/neovim/neovim/issues/38840#issuecomment-4195095780) in [neovim/neovim](https://github.com/neovim/neovim)
-4. ℹ️ Assigned issue [#38840](https://github.com/neovim/neovim/issues/38840) in [neovim/neovim](https://github.com/neovim/neovim)
-5. ℹ️ Labeled issue [#38840](https://github.com/neovim/neovim/issues/38840) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🗣 Commented on [#38851](https://github.com/neovim/neovim/pull/38851#issuecomment-4208880987) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🗣 Commented on [#14](https://github.com/seandewar/actually-doom.nvim/issues/14#issuecomment-4205250177) in [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim)
+3. 💪 Opened PR [#38851](https://github.com/neovim/neovim/pull/38851) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 🗣 Commented on [#38840](https://github.com/neovim/neovim/issues/38840#issuecomment-4195095780) in [neovim/neovim](https://github.com/neovim/neovim)
+5. ℹ️ Assigned issue [#38840](https://github.com/neovim/neovim/issues/38840) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
