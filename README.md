@@ -7,9 +7,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39928](https://github.com/neovim/neovim/pull/39928#issuecomment-4508466626) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🗣 Commented on [#39928](https://github.com/neovim/neovim/pull/39928#issuecomment-4508132526) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🗣 Commented on [#39185](https://github.com/neovim/neovim/issues/39185#issuecomment-4273134235) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🗣 Commented on [#14109](https://github.com/vim/vim/pull/14109#issuecomment-4700175815) in [vim/vim](https://github.com/vim/vim)
+2. 🗣 Commented on [#39928](https://github.com/neovim/neovim/pull/39928#issuecomment-4508466626) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🗣 Commented on [#39928](https://github.com/neovim/neovim/pull/39928#issuecomment-4508132526) in [neovim/neovim](https://github.com/neovim/neovim)
 4. ℹ️ Labeled issue [#39150](https://github.com/neovim/neovim/issues/39150) in [neovim/neovim](https://github.com/neovim/neovim)
 5. ℹ️ Labeled issue [#39150](https://github.com/neovim/neovim/issues/39150) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
