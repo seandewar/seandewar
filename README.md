@@ -6,9 +6,9 @@
 #### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3357](https://github.com/Cataclysm-TLG/Cataclysm-TLG/pull/3357#issuecomment-6882849896) in [Cataclysm-TLG/Cataclysm-TLG](https://github.com/Cataclysm-TLG/Cataclysm-TLG)
-2. 💪 Opened PR [#3357](https://github.com/Cataclysm-TLG/Cataclysm-TLG/pull/3357) in [Cataclysm-TLG/Cataclysm-TLG](https://github.com/Cataclysm-TLG/Cataclysm-TLG)
-3. 🎉 Merged PR [#41425](https://github.com/neovim/neovim/pull/41425) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🎉 Merged PR [#3357](https://github.com/Cataclysm-TLG/Cataclysm-TLG/pull/3357) in [Cataclysm-TLG/Cataclysm-TLG](https://github.com/Cataclysm-TLG/Cataclysm-TLG)
+2. 🗣 Commented on [#3357](https://github.com/Cataclysm-TLG/Cataclysm-TLG/pull/3357#issuecomment-6882849896) in [Cataclysm-TLG/Cataclysm-TLG](https://github.com/Cataclysm-TLG/Cataclysm-TLG)
+3. 💪 Opened PR [#3357](https://github.com/Cataclysm-TLG/Cataclysm-TLG/pull/3357) in [Cataclysm-TLG/Cataclysm-TLG](https://github.com/Cataclysm-TLG/Cataclysm-TLG)
 4. 🗣 Commented on [#41426](https://github.com/neovim/neovim/issues/41426#issuecomment-5380566355) in [neovim/neovim](https://github.com/neovim/neovim)
 5. 🗣 Commented on [#41425](https://github.com/neovim/neovim/pull/41425#issuecomment-5380516281) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
